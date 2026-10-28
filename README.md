@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Team | **[Team name - to fill]** · [University and batch - to fill] |
+| Team | **[Gmora]** · [University of Moratuwa] |
 | Track | **Track A - Resolve & Support:** Intelligent Automation & Root-Cause AI |
 | Status | Working prototype (546 tests). Migrating into the target architecture: step R1 done ([plan 21](docs/enterprise-plan/21-migration-and-deployment-plan.md)). |
 
